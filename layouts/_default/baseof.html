@@ -7,10 +7,9 @@
   {{ partial "head.html" . }}
 
   {{ block "head" . }}{{""}}{{ end }}
-
-
 </head>
 <body class="{{- ( or .Params.color $.Site.Params.ThemeColor ) -}}">
+    {{partial "math.html"}}
 {{ if .Site.Params.Banner }}
   {{ with .Site.Params.Banner }}
     <div id="banner">
