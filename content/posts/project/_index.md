@@ -7,6 +7,7 @@ readingTime: false
 hideComments: true
 color: "" #color from the theme settings
 tags: ["project"]
+homepage: false
 ---
 
 ## About

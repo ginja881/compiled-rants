@@ -1,6 +1,7 @@
 ---
 title: "Home"
 draft: false
+homepage: true
 ---
 
 Hello Random Internet Traveller!! Welcome to my blog, known as compiled rants. 
