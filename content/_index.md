@@ -10,6 +10,7 @@ This is my sacred sanctuary for me to talk about:
 - projects (really nerdy shit),
 - and topics that really interest me (also nerdy shit).
 
+---
 
 ## About the Author: ME!
 If you're looking for an introduction similar to a tinder or social media profile, then go somewhere else. 
@@ -20,6 +21,8 @@ All I can say is that I'm one intuitive goofy programmer that likes to do:
 - work with hardware,
 - make and analyze systems,
 - play games (I touch lots of grass okay).
+
+---
 
 ## About the Author: ME! (But techy)
 In case of computer science and STEM, my interest lie in the fields
