@@ -108,7 +108,7 @@ pagination.pagerSize = 5
         identifier = "personal_stuff"
         name = "Personal Stuff"
         url = "/personal_stuff"
-         [[languages.en.menu.main]]
+      [[languages.en.menu.main]]
         identifier = "math"
         name = "Math"
         url = "/math"
