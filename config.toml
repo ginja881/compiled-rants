@@ -93,7 +93,7 @@ pagination.pagerSize = 5
 
     [languages.en.params.logo]
       logoText = ""
-      logoHomeLink = baseurl
+      logoHomeLink = "https://ginja881.github.io/compiled-rants/"
 
     [languages.en.menu]
       # Submenus is available since v2.1.0
