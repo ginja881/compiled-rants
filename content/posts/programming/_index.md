@@ -8,3 +8,10 @@ hideComments: true
 color: "" #color from the theme settings
 tags: ["programming"]
 ---
+
+
+## About
+Rants in programming, anything that I'm interested in or want to criticize >:)
+
+
+--
