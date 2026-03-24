@@ -93,7 +93,7 @@ pagination.pagerSize = 5
 
     [languages.en.params.logo]
       logoText = ""
-      logoHomeLink = "/"
+      logoHomeLink = baseurl
 
     [languages.en.menu]
       # Submenus is available since v2.1.0
