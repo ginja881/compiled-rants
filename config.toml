@@ -8,7 +8,7 @@ pagination.pagerSize = 5
 [params]
   # dir name of your main content (default is `content/posts`).
   # the list of set content will show up on your index page (baseurl).
-  contentTypeName = ""
+  contentTypeName = "posts"
 
   # ["orange", "blue", "red", "green", "pink", "paper"]
   themeColor = "paper"
@@ -107,19 +107,19 @@ pagination.pagerSize = 5
       [[languages.en.menu.main]]
         identifier = "personal_stuff"
         name = "Personal Stuff"
-        url = "https://ginja881.github.io/compiled-rants/personal_stuff/"
+        url = "https://ginja881.github.io/compiled-rants/posts/personal_stuff/"
       [[languages.en.menu.main]]
         identifier = "math"
         name = "Math"
-        url = "https://ginja881.github.io/compiled-rants/math/"
+        url = "https://ginja881.github.io/compiled-rants/posts/math/"
       [[languages.en.menu.main]]
         identifier = "programming"
         name = "Programming"
-        url = "https://ginja881.github.io/compiled-rants/programming/"
+        url = "https://ginja881.github.io/compiled-rants/posts/programming/"
       [[languages.en.menu.main]]
         identifier = "project"
         name = "Projects"
-        url = "https://ginja881.github.io/compiled-rants/project/"
+        url = "https://ginja881.github.io/compiled-rants/posts/project/"
       
 
 [module]
