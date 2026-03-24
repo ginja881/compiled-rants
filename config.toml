@@ -77,7 +77,7 @@ pagination.pagerSize = 5
   [languages.en.params]
     languageName = "English"
     title = "compiled-rants"
-    subtitle = "A simple, retro theme for Hugo"
+    subtitle = "Personal systems blog!!"
     owner = ""
     keywords = ""
     copyright = ""
