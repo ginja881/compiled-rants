@@ -1,5 +1,5 @@
 ---
-title: "post"
+title: "An Appreciation of Linear Algebra"
 author: ""
 tags: ["math"]
 description: ""
